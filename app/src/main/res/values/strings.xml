@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="search">Cari username..</string>
+    <string name="search_hint">Cari username..</string>
+    <string name="kembali">Kembali</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="none">User tidak memiliki data yang dapat ditampilkan</string>
+    <string name="no_connection">Pengambilan data gagal. Harap periksa koneksi pada perangkatmu!</string>
+    <string name="profile_image_desc">Github user profile image</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_user_fav">Tidak ada pengguna favorit.</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">Setting</string>
+</resources>

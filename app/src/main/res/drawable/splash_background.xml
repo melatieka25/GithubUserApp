@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sumber: https://medium.com/geekculture/implementing-the-perfect-splash-screen-in-android-295de045a8dc-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/bg_gradient"/>
+    <item>
+        <bitmap android:gravity="center"
+            android:src="@mipmap/ic_launcher_foreground"/>
+    </item>
+</layer-list>
